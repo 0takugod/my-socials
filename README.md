@@ -3,5 +3,5 @@ Heyy!! I created an interface similar to linktree that has links to all of my so
 
 You can find the live version here :
 
-[Live Preview]()
+[Live Preview](https://0takugod.github.io/my-socials/)
 
